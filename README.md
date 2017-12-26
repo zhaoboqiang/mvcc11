@@ -1,6 +1,6 @@
 # mvcc11
 
-A simple header-only Multiversion Concurrency Control (MVCC) implementation in C++11.
+A simple header-only Multiversion Concurrency Control (MVCC) implementation in C++.
 
 # What is MVCC?
 
